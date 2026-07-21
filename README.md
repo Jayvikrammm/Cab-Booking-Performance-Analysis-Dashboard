@@ -9,28 +9,23 @@ cancellations, and customer behavior.
 
 ## 📊 Dashboard Preview
 
-### 🧩 Data Model
+### Home
+![Home](Home.png)
 
-![Data
-Model](sandbox:/mnt/data/Screenshot%202026-07-20%20at%2011.44.00%20PM.png)
+### Dashboard Overview
+![Dashboard](Dashboard.png)
 
-### 📊 Main Dashboard
+### Hospital Records
+![Hospital Records](HOSPITAL%20RECORDS.png)
 
-![Dashboard](sandbox:/mnt/data/Screenshot%202026-07-20%20at%2011.54.44%20PM.png)
+### Cab Analysis
+![Medical Records](Cab%20Analysis.png)
 
-### 👥 Customer Analysis
+### Patient Records
+![Patient Records](PATIENT%20RECORDS.png)
 
-![Customer
-Analysis](sandbox:/mnt/data/Screenshot%202026-07-20%20at%2011.54.50%20PM.png)
-
-### 🚕 Cab Analysis
-
-![Cab
-Analysis](sandbox:/mnt/data/Screenshot%202026-07-20%20at%2011.54.56%20PM.png)
-
-### 📈 Additional Insights
-
-![Insights](sandbox:/mnt/data/Screenshot%202026-07-20%20at%2011.55.00%20PM.png)
+### Data Model View
+![Model View](MODEL%20VIEW.png)
 
 ------------------------------------------------------------------------
 
